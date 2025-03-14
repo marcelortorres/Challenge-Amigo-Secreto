@@ -1,6 +1,5 @@
 # Challenge-Amigo-Secreto
-# 
-Selecciona nombres aleatorios para obtener un amigo secreto
+# Selecciona nombres aleatorios para obtener un amigo secreto
 # Ingresar listado manualmente
 # No permite espacio vacio
 # Se debe ingresar a lo menos dos nombre
